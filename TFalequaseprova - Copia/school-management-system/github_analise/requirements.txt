@@ -1,0 +1,4 @@
+echo "requests
+pandas
+matplotlib
+openpyxl" > requirements.txt
